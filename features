@@ -1,0 +1,13 @@
+Setting options                                 Setting values              Unit 
+=======================================================================================
+Number of materials                             1,6                         1
+Thickness over the median radius                0.1 , 0.4                   0.1
+Circular Frequency                              1,4                         1
+Circumferential Wave Number                     -11,11                      1
+Crack Depth in Radial Direction                 0.025 , 1                   0.025
+Crack width in Circumferential direction        0.025 , 1                   0.025
+
+
+Target          Unit
+=====================================
+Crack           1/0
